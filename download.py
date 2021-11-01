@@ -8,7 +8,7 @@ from os import path, makedirs
 
 from sys import exit
 
-import requests 
+#import requests 
 
 
 class DownloadAncillary():
